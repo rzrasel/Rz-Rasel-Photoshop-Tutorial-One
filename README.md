@@ -13,6 +13,8 @@ git pull
 git push --all
 ```
 
+8tw3I%Je5zKF
+
 ### Reducing the repository size using Git
 ```
 Navigate to your repository:
