@@ -1,12 +1,12 @@
 # Rz-Rasel-Photoshop-Tutorial-One
-Rz Rasel - Photoshop Tutorial - One
+Photoshop Tutorial - Photo To Oil Painting Effect
 
 ### GIT Command
 ```git_command
 git init
 git remote add origin https://github.com/rzrasel/Rz-Rasel-Photoshop-Tutorial-One.git
 git remote -v
-git fetch && git checkout master
+git fetch && git checkout Photo-To-Oil-Painting-Effect
 git add .
 git commit -m "Add Readme & Git Commit File"
 git pull
@@ -41,8 +41,8 @@ Your repository should now be below the size limit.
 Navigate to your repository:
 ```
 cd my_repository/
-git checkout master
+git checkout Photo-To-Oil-Painting-Effect
 git filter-branch --force --tree-filter 'rm -f path/to/big_file.mpg' HEAD
 git reflog expire --expire=now --all && git gc --prune=now --aggressive
-git push --force origin master
+git push --force origin Photo-To-Oil-Painting-Effect
 ```
