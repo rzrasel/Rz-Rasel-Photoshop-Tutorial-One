@@ -1,7 +1,6 @@
 # Rz-Rasel-Photoshop-Tutorial-One
 Photoshop Tutorial - Photo To Oil Painting Effect
 
-8tw3I%Je5zKF
 ### GIT Command
 ```git_command
 git init
@@ -13,6 +12,7 @@ git commit -m "Add Readme & Git Commit File"
 git pull
 git push --all
 ```
+8tw3I%Je5zKF
 
 ### Reducing the repository size using Git
 ```
